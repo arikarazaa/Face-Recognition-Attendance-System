@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+scikit-learn
+firebase-admin
+pytz
+numpy
+joblib
